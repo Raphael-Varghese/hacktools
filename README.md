@@ -185,7 +185,7 @@ This project is not affiliated with, endorsed by, or derived from the official t
 ## Request a Tool
 
 > **We all have that one hacking tool we want.**
-> Mine is nmap. What is yours?
+> Mine is Metasploit-framework. What is yours?
 
 If a tool you need is not in the list above, open a GitHub issue with:
 1. The tool name
